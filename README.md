@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
