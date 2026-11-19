@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
@@ -104,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
