@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
