@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
