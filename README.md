@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
