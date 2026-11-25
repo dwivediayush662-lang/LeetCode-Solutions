@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
