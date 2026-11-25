@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3934-smallest-unique-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
