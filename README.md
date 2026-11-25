@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
