@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
 |  |
