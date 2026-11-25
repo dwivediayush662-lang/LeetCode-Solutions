@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [3934-smallest-unique-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
