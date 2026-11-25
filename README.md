@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Monotonic Stack
 |  |
 | ------- |
