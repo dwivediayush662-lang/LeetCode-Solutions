@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [3360-stone-removal-game](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [3360-stone-removal-game](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 ## Monotonic Stack
 |  |
 | ------- |
