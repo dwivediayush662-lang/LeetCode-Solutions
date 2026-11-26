@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Manacher
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
