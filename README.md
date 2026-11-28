@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/dwivediayush662-lang/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
